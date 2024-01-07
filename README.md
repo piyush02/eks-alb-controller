@@ -3,5 +3,5 @@
 ####
 Script to deploy aws loadblancer controller and flunet-bit on eks cluster 
 
-usee-
+use-
 bash controller_fluent.sh {environment_name}
